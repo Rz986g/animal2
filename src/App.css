@@ -14,10 +14,10 @@ html{
 .animalGrid{
     background-color: #FFDDD2;
     border-radius: 30px;
-    width:60%;
+    width:50%;
     /* height:500px; */
     margin-top:30px;
-    padding:30px;
+    padding:50px 30px;
     display: flex;
     flex-direction: row;
     flex-wrap:wrap;

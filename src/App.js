@@ -15,7 +15,7 @@ const App=()=>{
         console.log("animal "+animal);
     }
     const showAnimal = animal.map((animal,index)=>{
-        console.log(animal);
+        console.log(index);
         return <AnimalShow type={animal} key={index}/>
     })
 return (
